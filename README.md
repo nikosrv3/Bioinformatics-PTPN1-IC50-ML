@@ -2,7 +2,7 @@
 This project would not have been possible without the educational resources from "the data professor" and his bioinformatics educational resources found at: https://github.com/dataprofessor/bioinformatics_freecodecamp/
 
 End Goal:
-Webapp that takes in ChEMBL data for a molecule (or number of molecules) and outputs its predicted bioactivity(IC50 value) on PTPN1.
+Webapp that takes in ChEMBL data for a compound, creates a molecular finger print using Padel, and outputs its predicted bioactivity(IC50 value) on PTPN1.
 
 Current Status:
 - Training data collected
